@@ -1,0 +1,12 @@
+
+/* Class = "UIViewController"; title = "Tab1"; ObjectID = "Ufm-Or-D0H"; */
+"Ufm-Or-D0H.title" = "Tab1";
+
+/* Class = "UITabBarItem"; title = "Tab 2"; ObjectID = "ZNh-gl-fGB"; */
+"ZNh-gl-fGB.title" = "Tab 2";
+
+/* Class = "UIViewController"; title = "Tab2"; ObjectID = "oWa-EJ-WNN"; */
+"oWa-EJ-WNN.title" = "Tab2";
+
+/* Class = "UITabBarItem"; title = "Tab 1"; ObjectID = "rXj-e2-ggT"; */
+"rXj-e2-ggT.title" = "Tab 1";
